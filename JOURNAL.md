@@ -21,6 +21,7 @@ Still some work to do on jlc. Wait a minute.
 
 ## 11/7/2025 12:04 AM - get BOM  
 
+[BOM.csv](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c665b62b811529f876ab6abd7b570b59b2d4866/BOM_nfcCard_2025-11-06.csv)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3894c53c9e3a7272576f45b07002a4576112de43/image.png)
 I got the BOM following the tutorial, it was an interesting experience. Now I need to upload this table. It's a bit late, I want to go to sleep zzzzz.
   
