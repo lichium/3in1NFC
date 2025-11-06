@@ -29,3 +29,4 @@ I have so many cards and I have to bring all of them when I go out, which makes 
 |5	|MSK13C02	|SW1	|SW-SMD_MSK13C02-SZ	|1	|MSK13C02|	SHOU HAN(首韩)	|LCSC|	C2681567	|0.108|
 |6	|NT3H2111W0FHKH	|U1,U2,U3|	XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH|	3|	NT3H2111W0FHKH|	NXP(恩智浦)	|LCSC	|C710403|	0.695|
 
+[BOM](BOM_nfcCard_2025-11-06.csv)
