@@ -12,10 +12,16 @@
 ![sch](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c4b3e3602b0459bcc1e75f0ceaf356b07cd4b59a/sch.png)![3Dview](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--61b7d6164953336682467685a226952cd4ec851b/3Dview.png)
 I made an NFC card based on a tutorial, and suddenly thought that multiple cards could be integrated. I tried connecting them in parallel and controlling them with an SP3T switch. There are some warnnings, but I think they don't affect usage. I hope to materialize it and solder, use it.  
 
-## 11/7/2025 - update profile  
+## 11/7/2025 12:02 AM - update profile  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a006850c87a0b413c9c7f926b5d282313ff8e2da/image.png)
 I made the Readme document and optimized the repository directory.
 A little tiring, but I found it really interesting.
 Still some work to do on jlc. Wait a minute.  
+
+## 11/7/2025 12:04 AM - get BOM  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3894c53c9e3a7272576f45b07002a4576112de43/image.png)
+I got the BOM following the tutorial, it was an interesting experience. Now I need to upload this table. It's a bit late, I want to go to sleep zzzzz.
+  
 
