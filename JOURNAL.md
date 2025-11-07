@@ -8,6 +8,7 @@
 
 ## 11/6/2025 - create the pcb  
 
+![Screenshot_2025-11-07-10-05-28-119_com.microsoft.emmx-edit](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0NywicHVyIjoiYmxvYl9pZCJ9fQ==--37272c2c3f436d0303bdf00a17a9defbebea4823/Screenshot_2025-11-07-10-05-28-119_com.microsoft.emmx-edit.jpg)
 ![pcb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5NywicHVyIjoiYmxvYl9pZCJ9fQ==--2d3700f6761c7c1a9bda4ec4a5fc1957b305e0bf/pcb.png)
 ![sch](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c4b3e3602b0459bcc1e75f0ceaf356b07cd4b59a/sch.png)![3Dview](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--61b7d6164953336682467685a226952cd4ec851b/3Dview.png)
 I made an NFC card based on a tutorial, and suddenly thought that multiple cards could be integrated. I tried connecting them in parallel and controlling them with an SP3T switch. There are some warnnings, but I think they don't affect usage. I hope to materialize it and solder, use it.  
